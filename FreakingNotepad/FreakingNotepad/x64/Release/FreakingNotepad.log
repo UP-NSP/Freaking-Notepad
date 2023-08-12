@@ -1,7 +1,0 @@
-﻿MSVCRT.lib(new_scalar.obj) : error LNK2001: неразрешенный внешний символ _callnewh.
-MSVCRT.lib(new_scalar.obj) : error LNK2001: неразрешенный внешний символ malloc.
-MSVCRT.lib(delete_scalar.obj) : error LNK2001: неразрешенный внешний символ free.
-MSVCRT.lib(throw_bad_alloc.obj) : error LNK2001: неразрешенный внешний символ __std_exception_copy.
-MSVCRT.lib(throw_bad_alloc.obj) : error LNK2001: неразрешенный внешний символ __std_exception_destroy.
-MSVCRT.lib(throw_bad_alloc.obj) : error LNK2001: неразрешенный внешний символ _CxxThrowException.
-D:\Visual Studio Data\Visual Studio Projects\FreakingNotepad\x64\Release\FreakingNotepad.exe : fatal error LNK1120: неразрешенных внешних элементов: 6
